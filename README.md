@@ -29,9 +29,9 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<div flex-direction="row">&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=achors&show_icons=true&locale=en" alt="achors" />
+<div flex-direction="row">&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=achors&show_icons=true&locale=en" alt="achors" />
 
-<img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=achors&" alt="achors" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=achors&" alt="achors" />
 
 </div>
 
