@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Adolf Nyerere </h1>
+<h1 align="center">Hello👋, I'm Adolf </h1>
 <h3 align="center"> Full-stack Developer</h3>
 <h4 align="center">I am a Software Enthusiast. I pride myself as an innovator & astute problem solver. </h4>
 
