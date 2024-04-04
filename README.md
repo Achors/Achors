@@ -15,9 +15,9 @@
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 👨‍💻 All of my projects are available at [Nyesh.com](Nyesh.com)
+- 👨‍💻 All of my projects are available at [Nyesh.com](Nyereres.vercel.app)
 
-- 📝 View my articles and experiences at [Nyesh.com](Nyesh.com)
+- 📝 View my articles and experiences at [Nyesh.com](Nyereres.vercel.app)
 
 - 💬 Ask me about **Anything Techie-ish**
 
